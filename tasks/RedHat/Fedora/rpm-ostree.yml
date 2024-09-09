@@ -1,0 +1,3 @@
+---
+- name: from
+  include_tasks: "from:/{{ silverblue_default }}/main.yml"

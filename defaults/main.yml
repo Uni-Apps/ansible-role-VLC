@@ -1,0 +1,5 @@
+ubuntu_default: Snap
+
+silverblue_default: Flatpak
+
+archlinux_source: pkg

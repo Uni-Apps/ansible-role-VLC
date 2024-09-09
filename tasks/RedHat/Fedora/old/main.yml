@@ -1,0 +1,7 @@
+---
+- name: Install VLC 
+  ansible.builtin.dnf:
+    name:
+      - vlc
+    state: latest
+  become: true

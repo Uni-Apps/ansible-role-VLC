@@ -1,0 +1,1 @@
+flatpak_path: "{{ ansible_env.HOME}}/.var/app/org.videolan.VLC"
